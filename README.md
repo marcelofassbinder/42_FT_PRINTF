@@ -19,4 +19,16 @@ Ft_printf is part of 42 Common Core and aims to replicate the functionality of t
 - `%X` -> Prints a number in hexadecimal (base 16) uppercase format.
 - `%%` -> Prints a percent sign.
 
-# Grade  <p><img height="50px" src="https://img.shields.io/badge/-100%20%2F%20100-success" /></p>
+# Grade  <p><img height="30px" src="https://img.shields.io/badge/-100%20%2F%20100-success" /></p>
+
+# Norminette 🪖
+At 42 School, we need to follow some strict rules when writing our code. These rules are described in the Norm and checked by the formidable `norminette`. Here are some of them:
+```
+- No for, do...while, switch, case, goto, ternary operators and variable-length arrays are allowed
+- Each function must be maximum 25 lines
+- One single variable declaration per line
+- You can’t declare more than 5 variables per function
+- You can't write more thane 5 functions per file
+...
+```
+[Click here](https://github.com/42School/norminette/blob/master/pdf/en.norm.pdf) to review the complete Norm document.
