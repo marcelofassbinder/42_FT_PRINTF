@@ -1,5 +1,12 @@
-# 42_FT_PRINTF 🖨️
+<h1 align=center>
+  42_FT_PRINTF 🖨️
+</h1>
+
+<div align=center>
+  
 A custom `printf` implementation in C. 
+
+</div>
 
 # About ✍
 Ft_printf is part of 42 Common Core and aims to replicate the functionality of the standard C library function `printf` supporting the conversions "cspdiuxX%". The project provides a learning of new concepts that certainly will be useful for next Common Core activities. The main goal is to deepen your understanding of the inner workings of printf, enhancing your proficiency in C programming.
